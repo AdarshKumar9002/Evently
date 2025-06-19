@@ -1,0 +1,21 @@
+{
+  "name": "evently",
+  "version": "1.0.0",
+  "description": "Evently is a full-stack event planning web application where users can register and log in to create, manage, and RSVP to community events",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshKumar9002/Evently.git"
+  },
+  "keywords": [],
+  "author": "Adarsh",
+  "license": "Custom: MIT (Non-Commercial Only)",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdarshKumar9002/Evently/issues"
+  },
+  "homepage": "https://github.com/AdarshKumar9002/Evently#readme"
+}
