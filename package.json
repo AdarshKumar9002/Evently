@@ -4,7 +4,8 @@
   "description": "Evently is a full-stack event planning web application where users can register and log in to create, manage, and RSVP to community events",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "watch": "npx @tailwindcss/cli -i ./public/style/style.css -o ./public/style/main.css --watch"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,19 @@
   "bugs": {
     "url": "https://github.com/AdarshKumar9002/Evently/issues"
   },
-  "homepage": "https://github.com/AdarshKumar9002/Evently#readme"
+  "homepage": "https://github.com/AdarshKumar9002/Evently#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.1",
+    "globals": "^16.2.0",
+    "prettier": "^3.6.1"
+  }
 }

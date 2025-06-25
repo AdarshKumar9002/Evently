@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Package managers
+package-lock.json
+
+# Environment variables
+.env
+.env.*  
+
+# Git files
+.gitignore
+
+# IDE / editor settings
+.vscode/
