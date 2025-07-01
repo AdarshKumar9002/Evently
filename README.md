@@ -4,7 +4,7 @@
 ## Tech Used
 
 - **Template Engine**: EJS
-- **Frontend**: CSS, Tailwind, JavaScript  
+- **Frontend**: SCSS, JavaScript  
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB
 

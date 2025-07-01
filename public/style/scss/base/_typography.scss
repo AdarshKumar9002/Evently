@@ -1,0 +1,21 @@
+h1 {
+    font-size: var(--font-size-xxl);
+    color: var(--primary-color);
+    font-weight: var(--font-weight-black);
+}
+
+h2 {
+    font-size: var(--font-size-xl);
+    color: var(--secondry-color);
+    line-height: var(--line-height-01);
+    letter-spacing: var(--letter-spacing-02);
+    font-weight: var(--font-weight-bold);
+}
+
+p {
+    font-size: var(--font-size-xs);
+    color: var(--primary-color);
+    line-height: var(--line-height-01);
+    font-weight: var(--font-weight-medium);
+}
+
